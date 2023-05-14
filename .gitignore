@@ -22,6 +22,7 @@ var/
 wheels/
 static_backend/
 build/
+node_modules/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
