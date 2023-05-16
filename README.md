@@ -9,7 +9,6 @@
 -установить файл зависимостей requirements.txt командой `pip install -r requirements.txt<br>`
 <p>
 <p>
-
  Автор проекта<br>
 -https://github.com/andy-rust<br>
 -https://t.me/Ruiner_AND<br>
