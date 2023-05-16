@@ -4,7 +4,7 @@
 # Что бы развернуть проект локально на своем компьютере необходимо выполнить следующие действия:<br>
 -установить виртуальное окружение командой `python -m venv venv` или `python3 -m venv venv` в зависимости<br>
 от вышей OC<p>
--находясь в папке, где установлен venv активировать виртуальное окружение командой длы Windows `source venv/Scripts/activate`<p>
+-находясь в папке, где установлен venv активировать виртуальное окружение командой для Windows `source venv/Scripts/activate`<p>
 либо для других OC `source venv/bin/activate`
 -установить файл зависимостей requirements.txt командой `pip install -r requirements.txt<br>`
 <p>
